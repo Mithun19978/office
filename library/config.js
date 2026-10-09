@@ -1,4 +1,4 @@
-var driver_serverApiUrl = 'https://mithun.innait.com';
+var driver_serverApiUrl = 'https://mithun.innait.com/idam-gateway';
 var driver_projectId    = 'community';
 var driver_clientId     = '6ac7a1362a63020bdd6e77c9'; 
 var driver_clientSecret = 'rBU4hQwnbhq9nCYASFFrnWpUmMlE1JcJbFLKfRdKP5Y';
